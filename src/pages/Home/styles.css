@@ -1,0 +1,19 @@
+.contentBodyPage {
+  position: relative;
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.background {
+  height: 80vh;
+  position: absolute;
+  left: 0;
+}
+
+.rightBodyPage {
+  width: 60%;
+  padding: 40px;
+  color: #ffffff;
+}
