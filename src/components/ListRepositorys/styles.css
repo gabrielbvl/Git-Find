@@ -1,0 +1,15 @@
+.listRepository {
+  margin: 24px 0;
+}
+
+.listRepository h3 {
+  color: #539bf5;
+  font-size: 32px;
+  margin-top: 20px;
+}
+
+.listRepository p {
+  color: #999999;
+  font-size: 22px;
+  margin: 24px 0;
+}

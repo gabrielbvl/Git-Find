@@ -17,3 +17,76 @@
   padding: 40px;
   color: #ffffff;
 }
+
+hr {
+  width: 100%;
+  height: 1px;
+  margin-bottom: 40px;
+  background-color: #999999;
+  border: 1px solid #999999;
+}
+
+input {
+  width: 70%;
+  min-width: 250px;
+  height: 28px;
+  border: 1px solid #999999;
+  border-radius: 26px;
+  background-color: transparent;
+  font-size: 18px;
+  padding: 10px;
+  margin-right: 20px;
+  color: #ffffff;
+}
+
+button {
+  width: 20%;
+  min-width: 50px;
+  height: 48px;
+  border: 1px solid #999999;
+  border-radius: 26px;
+  background-color: #2d333b;
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.contentProfile {
+  display: flex;
+  margin: 40px 0 40px 0;
+  padding: 20px;
+  /*  border: 10px dotted #539bf5; */
+}
+
+.contentProfile h3 {
+  font-size: 36px;
+  color: #999999;
+}
+
+.contentProfile span {
+  display: block;
+  margin: 0;
+  font-size: 24px;
+  color: #999999;
+}
+
+.contentProfile p {
+  font-size: 22px;
+  color: #999999;
+  margin: 20px 0 0 0;
+}
+
+.profile {
+  width: 120px;
+  height: 120px;
+  border: 5px solid #e5e5e5;
+  border-radius: 60px;
+  margin-right: 32px;
+}
+
+.repository {
+  font-size: 48px;
+  color: #ffffff;
+  margin: 12px 0;
+  text-align: center;
+}
